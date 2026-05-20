@@ -2,6 +2,8 @@
 
 A native Wayland/Plasma 6 desktop widget that shows live audio information from PipeWire.
 
+![Audio HUD screenshot](screenshot.png)
+
 ## Features
 
 - **DAC info** — active output device, codec, sample rate, bit depth
