@@ -1,0 +1,15 @@
+{
+    "KPlugin": {
+        "Authors": [{"Email": "", "Name": "noisetta"}],
+        "Category": "System Information",
+        "Description": "Live audio HUD showing PipeWire sink info, codec, sample rate, bit depth, active streams, and bit-perfect status",
+        "Icon": "audio-headphones",
+        "Id": "com.github.audiohud",
+        "License": "GPL-2.0-or-later",
+        "Name": "Audio HUD",
+        "Version": "1.1.0",
+        "Website": "https://github.com/noisetta"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
