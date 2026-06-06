@@ -4,6 +4,10 @@ A native Wayland/Plasma 6 desktop widget that shows live audio information from 
 
 ![Audio HUD screenshot](screenshot.png)
 
+## Support
+
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/noisetta) [![GitHub Sponsors](https://img.shields.io/github/sponsors/noisetta?style=flat&logo=githubsponsors&color=EA4AAA)](https://github.com/sponsors/noisetta)
+
 ## Features
 
 - **DAC info** — active output device, codec, sample rate, bit depth
